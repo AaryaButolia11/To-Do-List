@@ -1,4 +1,4 @@
-![Screenshot 2025-05-07 173342](https://github.com/user-attachments/assets/4a28505a-6f9d-4f9b-a8f9-3ca3b2c63138)# 🌗 Dark Mode To-Do List
+ 🌗 Dark Mode To-Do List
 
 A sleek and minimal To-Do List web application with Light/Dark theme toggle and persistent storage using **LocalStorage**.
 
