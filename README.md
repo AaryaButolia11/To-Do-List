@@ -24,10 +24,10 @@ A sleek and minimal To-Do List web application with Light/Dark theme toggle and 
 
 project/
 │
-├── index.html # Main HTML structure
-├── styles.css # Styling for dark and light modes
-├── script.js # JavaScript for task and theme logic
-└── README.md # Project documentation
+├── index.html 
+├── styles.css 
+├── script.js 
+└── README.md 
 
 
 ## 📸 Screenshot
